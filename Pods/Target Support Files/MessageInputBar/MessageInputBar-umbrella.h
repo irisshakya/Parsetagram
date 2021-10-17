@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_ParsetagramTestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_ParsetagramTestsVersionString[];
+FOUNDATION_EXPORT double MessageInputBarVersionNumber;
+FOUNDATION_EXPORT const unsigned char MessageInputBarVersionString[];
 
